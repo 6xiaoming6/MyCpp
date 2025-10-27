@@ -4,8 +4,8 @@
 
 #中间目录
 .vs
-**/bin
-**/bin-int
+bin
+bin-int
 
 
 
