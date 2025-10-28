@@ -127,7 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="src\SmartPtr.h" />
+    <ClInclude Include="src\SharedPtr.h" />
+    <ClInclude Include="src\UniquePtr.h" />
+    <ClInclude Include="src\WeakPtr.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Test.cpp" />

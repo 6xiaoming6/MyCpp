@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\SimpleFunction.h">
+    <ClInclude Include="src\Function.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

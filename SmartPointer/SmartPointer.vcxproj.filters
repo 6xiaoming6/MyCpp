@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\SmartPtr.h">
+    <ClInclude Include="src\SharedPtr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\UniquePtr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\WeakPtr.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
